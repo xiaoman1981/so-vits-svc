@@ -1,3 +1,4 @@
+声音克隆
 # SoftVC VITS Singing Voice Conversion
 
 In the field of Singing Voice Conversion, there is not only one project, SoVitsSvc, but also many other projects, which will not be listed here. The project was officially discontinued for maintenance and Archived.
